@@ -1,0 +1,7 @@
+fix the project.
+project was created in the old IDE with API 32 support, at some point I've changed target sdk to API 33 and everything broke :)
+Neither libs updates nor IDE update has not fix it since now I have tons of conflicts between libs.
+
+Update Notification UI
+Add activity UI
+test the functionality
